@@ -3,7 +3,7 @@
 🚀 Passionate about DSA, Web Development, and Open Source
 📚 Studied various types of OOP principles and design strategies.
 📚 Preparing for GATE & love solving Java coding problems
-🔍 Exploring biometric systems, REST APIs, and Design Patterns and LLD.
+🔍 Exploring biometric systems, REST APIs, and Design Patterns and LLD
 
 🛠️ Tech Stack
 Languages: Java, JavaScript, C++
