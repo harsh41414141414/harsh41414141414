@@ -18,7 +18,8 @@ Other Tools: Git, GitHub, Firebase
 
 🚀 Projects
 🔹 AI-Powered Resume Screening System - Automating CV shortlisting with AI
-🔹 Blockchain Basics - Secure Task Management with Authentication
+🔹 java-oop-solid-strategy-cab-booking-system - A console-based cab booking system following OOP principles, SOLID guidelines, 
+   and the Strategy Design Pattern .
 🔹  Wunderlust – Travel Rental Platform with Express.js and Tailwind CSS
 📫 Connect With Me
 
